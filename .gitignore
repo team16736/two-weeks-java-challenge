@@ -1,0 +1,21 @@
+# compile and build output, eg. .classs output
+build/
+
+# tomcat war exploding
+out/
+test-output/
+
+# workspace-generated files
+/.idea/*
+
+/*.iml
+
+# .gradle is generated when the project is built
+/.gradle
+/.idea
+gradle/
+gradle
+gradlew.bat
+settings.gradle
+build.gradle
+gradlew
