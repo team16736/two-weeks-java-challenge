@@ -10,20 +10,20 @@ Need help?
 https://atomicnarwahls.slack.com - go here and post your questions on "programming channel".
 
 Challenge details:
-##Day 1)  Print Hello World
+## Day 1)  Print Hello World
 
-Day 2) Program to Add two numbers.
+## Day 2) Program to Add two numbers.
 Method addTwoNumber with int a, int b as input. 
 Then return result. Print int the main method.  
 
-Day 3) Program to Multiply two decimal numbers.
+## Day 3) Program to Multiply two decimal numbers.
 Method multiplyTwoNumber with double xx, double yy as input. 
 Then return result. Print int the main method.
 
-Day 4) Program that uses 4 methods.
+## Day 4) Program that uses 4 methods.
 Calculator program to add, divide, subtract and multiply two numbers.
 
-Day 5) Program that uses a boolean variable. (boolean color)
+## Day 5) Program that uses a boolean variable. (boolean color)
 If color is true then print "Green"
 If color is false then print "Red"
 
